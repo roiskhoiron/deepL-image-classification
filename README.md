@@ -40,7 +40,7 @@ submission/
 
 ## Cara Menjalankan
 
-1. Buka `notebook.ipynb` di Jupyter atau Google Colab
+1. Buka `submission_image_classification.ipynb` di Jupyter atau Google Colab
 2. Jalankan semua cell dari atas ke bawah
 3. Notebook akan:
    - Mengunduh dataset dari Kaggle
